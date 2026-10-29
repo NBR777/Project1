@@ -1,0 +1,125 @@
+body {
+    background-color: #421C00;
+    font-family: "Prata", serif;
+}
+
+.top {
+    color: #EA5A00;
+    font-size: 100px;
+    margin-left: 100px;
+    margin-top: 75px;
+}
+
+.top-2 {
+    color: #EA5A00;
+    font-size: 100px;
+    margin-top: 50px;
+    margin-left: auto;
+    display: flex;
+    text-align: center;
+}
+
+.img-1 {
+    margin: 100px 50px 100px 50px;
+    width: 500px;
+    height: 500px;
+}
+
+.middle-1 {
+    color: #EA5A00;
+    display: flex;
+    text-wrap: break-word;
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: 250px;
+}
+
+.div-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.img-fire1 {
+    margin: 100px 50px 100px 300px;
+    width: 250px;
+    height: 250px;
+    transform: rotate(-90deg);
+}
+
+.img-fire2 {
+    margin: 100px 50px 100px 50px;
+    width: 250px;
+    height: 250px;
+}
+
+.img-fire3 {
+    margin: 100px 50px 100px 50px;
+    width: 250px;
+    height: 250px;
+    transform: rotate(90deg);
+}
+
+.middle-2 {
+    color: #EA5A00;
+    display: flex;
+    text-wrap: break-word;
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: 150px;
+    width: 500px;
+}
+
+.img-spark {
+    margin: 100px 50px 100px 500px;
+    width: 250px;
+    height: 250px;
+}
+
+.img-hana1 {
+    margin: 100px 50px 100px 50px;
+    width: 500px;
+    height: 400px;
+}
+
+.middle-3 {
+    color: #EA5A00;
+    display: flex;
+    text-wrap: break-word;
+    font-size: 50px;
+    margin-left: 250px;
+    margin-top: 250px;
+    width: 500px;
+}
+
+.img-hana2 {
+    margin: 100px 50px 100px 250px;
+    width: 300px;
+    height: 500px;
+}
+
+.middle-4 {
+    color: #EA5A00;
+    display: flex;
+    text-wrap: break-word;
+    font-size: 50px;
+    margin-left: 250px;
+    margin-top: 250px;
+    width: 500px;
+}
+
+.down {
+    color: #EA5A00;
+    font-size: 100px;
+    margin-top: 50px;
+    margin-left: 100px;
+    display: flex;
+    text-align: center;
+}
+
+.img-dress {
+    margin-left: 600px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    width: 300px;
+    height: 500px;
+}
